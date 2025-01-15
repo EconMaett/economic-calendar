@@ -6,3 +6,6 @@
 .httr-oauth
 .DS_Store
 .quarto
+
+scrape-data.R
+scrape-trial.R
